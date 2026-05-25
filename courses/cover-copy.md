@@ -21,6 +21,7 @@ The complete guide to designing correct PCB stackups from field physics to 8-lay
 - How to design correct 4-layer, 6-layer, and 8-layer boards
 - How to isolate analog and digital without splitting the plane
 - The one rule that validates any stackup configuration
+**Cover image:** `courses/emc-design-kit/cover-emc-design-kit.png`
 
 ---
 
@@ -38,5 +39,6 @@ The complete reference for designing PCBs that pass EMC — rules, diagnostics, 
 - How to diagnose EMC failures before the test lab does
 - The stackup configurations that contain fields correctly
 - The one rule that validates any stackup configuration
+**Cover image:** `courses/emc-design-kit/cover-emc-design-kit.png`
 
 ---
